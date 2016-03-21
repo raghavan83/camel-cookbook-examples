@@ -16,8 +16,7 @@ target
 *.ipr
 *.iws
 .settings
-.project
-.classpath
+
 
 # OS generated files #
 ######################
