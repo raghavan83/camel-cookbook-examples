@@ -26,6 +26,8 @@ import org.apache.camel.spi.ManagementAgent;
 import org.apache.camel.spi.ManagementStrategy;
 
 public class JmxConfigureCamelApplication {
+	
+	//raghav.tcs
     public static void main(String[] args) throws Exception {
         final CamelContext context = new DefaultCamelContext();
 
