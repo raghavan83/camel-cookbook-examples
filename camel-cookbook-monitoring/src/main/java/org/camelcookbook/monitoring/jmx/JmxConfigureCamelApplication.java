@@ -30,6 +30,8 @@ public class JmxConfigureCamelApplication {
 	//raghav.tcs
     public static void main(String[] args) throws Exception {
         final CamelContext context = new DefaultCamelContext();
+        
+        //team sync commit raghavan83
 
         // Configure JMX settings
         final ManagementStrategy managementStrategy = context.getManagementStrategy();
